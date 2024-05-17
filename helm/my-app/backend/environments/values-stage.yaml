@@ -5,4 +5,4 @@ deployment:
     tag: 0
   replicas: 1
   env:
-    redis_host: # This value was modified by the deploy-infra pipeline
+    redis_host: autom8me-stage-elascache-rep-group.p7r3l6.ng.0001.use1.cache.amazonaws.com
